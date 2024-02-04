@@ -22,7 +22,7 @@ contract NeuraCoinOracle is ChainlinkClient {
 
     function requestAccuracyData() public {
         Chainlink.Request memory req = buildChainlinkRequest(jobId, address(this), this.fulfill.selector);
-        req.add("get", "YOUR_API_ENDPOINT"); // Replace with your API endpoint
+        req.add("get", 'http://127.0.0.1:8000'); // Replace with your API endpoint
         req.add("path", "data"); // Replace with the JSON path to your data
         sendChainlinkRequestTo(oracle, req, fee);
     }
