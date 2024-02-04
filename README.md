@@ -61,7 +61,7 @@ Incorporate the scenario-based decision trees into your trading strategy, allowi
 
 ![1707023312966-51d19d8b-e04c-471e-adb0-950ff9f6212b_11](https://github.com/Ronit26Mehta/algoritmic-trading/assets/109467924/61640e1c-f72c-4640-bea0-68c70e2aeb00)
 
-![1707023312966-51d19d8b-e04c-471e-adb0-950ff9f6212b_12](https://github.com/Ronit26Mehta/algoritmic-trading/assets/109467924/13394b70-e3a9-4195-9f1b-62b388e642f5)
+
 
 
 
