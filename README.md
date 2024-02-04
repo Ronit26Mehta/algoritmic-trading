@@ -126,3 +126,38 @@ NeuraCoin is not just a cryptocurrency; it's part of a larger ecosystem. It demo
    ```bash
    git clone https://github.com/Ronit26Mehta/Algorithmic-currency-protype.git
    cd neuracoin
+## Usage 🚀
+
+### Token Sale 🎉
+
+Participate in NeuraCoin's exciting token sale events to acquire tokens at special rates. Our token sales provide a unique opportunity for early supporters to get involved and benefit from exclusive rates. Stay tuned for announcements about upcoming sales, and join us in shaping the future of finance!
+
+#### How to Participate:
+
+1. Keep an eye on our official communication channels for announcements about token sales.
+
+2. Follow the provided instructions to participate in the token sale.
+
+3. Acquire NeuraCoin tokens at special rates during the sale events.
+
+### Accessing the Analytics Platform 📊
+
+Unlock the full potential of our predictive analytics platform by holding NeuraCoin tokens. The more tokens you hold, the greater your access level, allowing you to enjoy advanced market insights and analytics tools.
+
+#### Benefits of Holding NeuraCoin:
+
+1. *Exclusive Insights:* Gain access to exclusive market insights powered by our advanced machine learning model.
+
+2. *Analytics Tools:* Utilize a suite of analytics tools to enhance your decision-making in the cryptocurrency market.
+
+3. *Real-Time Updates:* Stay ahead of market trends with real-time updates and analysis.
+
+#### How to Access:
+
+1. Acquire NeuraCoin tokens through token sales or exchanges.
+
+2. Hold NeuraCoin tokens in your wallet to unlock access to the analytics platform.
+
+3. Log in to the platform and explore a world of advanced market insights and analytics tools based on your token holdings.
+
+Join us on this exciting journey into the future of finance with NeuraCoin! 🚀
