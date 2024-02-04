@@ -161,3 +161,15 @@ Unlock the full potential of our predictive analytics platform by holding NeuraC
 3. Log in to the platform and explore a world of advanced market insights and analytics tools based on your token holdings.
 
 Join us on this exciting journey into the future of finance with NeuraCoin! 🚀
+
+## presentation(neura coin)
+![image](https://github.com/Ronit26Mehta/algoritmic-trading/assets/109467924/706e164f-2437-4b90-beda-d908968628c0)
+
+![image](https://github.com/Ronit26Mehta/algoritmic-trading/assets/109467924/c1e2e1da-c7d9-4adf-9405-866ea3789b68)
+
+![image](https://github.com/Ronit26Mehta/algoritmic-trading/assets/109467924/7e31a0dc-86f1-49b2-a2bc-a6433dd1101b)
+
+![image](https://github.com/Ronit26Mehta/algoritmic-trading/assets/109467924/bc1b45c5-06e5-47bc-8ade-6d111827b472)
+
+![image](https://github.com/Ronit26Mehta/algoritmic-trading/assets/109467924/c00cdd3d-7ccd-49e4-b793-726b6174ee19)
+
