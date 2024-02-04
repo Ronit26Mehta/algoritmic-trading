@@ -1,0 +1,25 @@
+{
+  "name": "neuracoin",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5",
+    "hardhat-deploy": "^0.11.45"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@openzeppelin/contracts": "^5.0.1",
+    "chai": "^4.4.1",
+    "dotenv": "^16.4.1",
+    "ethers": "^6.1.0",
+    "yarn": "^1.22.21"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
